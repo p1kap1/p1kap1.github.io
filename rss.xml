@@ -12,15 +12,18 @@
         <language>zh-CN</language>
         <pubDate>Sat, 09 Sep 2023 00:00:00 +0800</pubDate>
         <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0800</lastBuildDate>
+        <category term="web安全" />
+        <category term="ctf" />
+        <category term="php" />
         <item>
             <guid isPermalink="true">http://yoursite.com/CTF/web/SICTF2023-Round2/</guid>
             <title>SICTF2023-Round2</title>
             <link>http://yoursite.com/CTF/web/SICTF2023-Round2/</link>
             <category term="我想打CTF" scheme="http://yoursite.com/categories/CTF/" />
             <category term="无敌的Web" scheme="http://yoursite.com/categories/CTF/web/" />
+            <category term="又坐牢了" scheme="http://yoursite.com/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
             <category term="php是世界上最好的语言" scheme="http://yoursite.com/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="我就是歪脖" scheme="http://yoursite.com/tags/%E6%88%91%E5%B0%B1%E6%98%AF%E6%AD%AA%E8%84%96/" />
-            <category term="又坐牢了" scheme="http://yoursite.com/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
             <pubDate>Sat, 09 Sep 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;web&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#web&#34;&gt;#&lt;/a&gt; Web&lt;/h2&gt;
 &lt;h3 id=&#34;签到-include&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#签到-include&#34;&gt;#&lt;/a&gt; [签到] Include&lt;/h3&gt;
@@ -291,9 +294,9 @@ U - unicode string&lt;/p&gt;
             <link>http://yoursite.com/CTF/web/NSSCTF-2nd-web/</link>
             <category term="我想打CTF" scheme="http://yoursite.com/categories/CTF/" />
             <category term="无敌的Web" scheme="http://yoursite.com/categories/CTF/web/" />
+            <category term="又坐牢了" scheme="http://yoursite.com/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
             <category term="php是世界上最好的语言" scheme="http://yoursite.com/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="我就是歪脖" scheme="http://yoursite.com/tags/%E6%88%91%E5%B0%B1%E6%98%AF%E6%AD%AA%E8%84%96/" />
-            <category term="又坐牢了" scheme="http://yoursite.com/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
             <pubDate>Thu, 31 Aug 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;php签到&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#php签到&#34;&gt;#&lt;/a&gt; php 签到&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -610,8 +613,8 @@ POST:ssti=&amp;#123;% set _tt_utf8 =eval %&amp;#125;&amp;#123;% raw request.body
             <category term="我想打CTF" scheme="http://yoursite.com/categories/CTF/" />
             <category term="无敌的Web" scheme="http://yoursite.com/categories/CTF/web/" />
             <category term="懂不懂python的含金量啊" scheme="http://yoursite.com/tags/%E6%87%82%E4%B8%8D%E6%87%82python%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%95%8A/" />
-            <category term="我就是歪脖" scheme="http://yoursite.com/tags/%E6%88%91%E5%B0%B1%E6%98%AF%E6%AD%AA%E8%84%96/" />
             <category term="又坐牢了" scheme="http://yoursite.com/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
+            <category term="我就是歪脖" scheme="http://yoursite.com/tags/%E6%88%91%E5%B0%B1%E6%98%AF%E6%AD%AA%E8%84%96/" />
             <category term="反序列化好难" scheme="http://yoursite.com/tags/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%A5%BD%E9%9A%BE/" />
             <pubDate>Sat, 26 Aug 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;swpuctf-2021-新生赛ez_unserialize&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#swpuctf-2021-新生赛ez_unserialize&#34;&gt;#&lt;/a&gt; [SWPUCTF 2021 新生赛] ez_unserialize&lt;/h3&gt;
@@ -987,8 +990,8 @@ Your Password:information_schema,m&lt;/p&gt;
             <link>http://yoursite.com/CTF/misc/NepCTF-misc/</link>
             <category term="我想打CTF" scheme="http://yoursite.com/categories/CTF/" />
             <category term="高贵的Misc" scheme="http://yoursite.com/categories/CTF/misc/" />
-            <category term="php是世界上最好的语言" scheme="http://yoursite.com/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="又坐牢了" scheme="http://yoursite.com/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
+            <category term="php是世界上最好的语言" scheme="http://yoursite.com/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <pubDate>Wed, 16 Aug 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;codes&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#codes&#34;&gt;#&lt;/a&gt; codes&lt;/h3&gt;
 &lt;blockquote&gt;
