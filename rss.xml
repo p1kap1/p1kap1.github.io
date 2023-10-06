@@ -19,7 +19,7 @@
             <guid isPermalink="true">https://p1kap1.github.io/CTF/web/polar2023%E4%B8%AA%E4%BA%BA%E8%B5%9B/</guid>
             <title>polar2023个人赛</title>
             <link>https://p1kap1.github.io/CTF/web/polar2023%E4%B8%AA%E4%BA%BA%E8%B5%9B/</link>
-            <category term="我想打CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
+            <category term="CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
             <category term="无敌的Web" scheme="https://p1kap1.github.io/categories/CTF/web/" />
             <category term="php是世界上最好的语言" scheme="https://p1kap1.github.io/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="我就是歪脖" scheme="https://p1kap1.github.io/tags/%E6%88%91%E5%B0%B1%E6%98%AF%E6%AD%AA%E8%84%96/" />
@@ -102,13 +102,17 @@ flag 格式：flag&lt;/p&gt;
 &lt;h3 id=&#34;java_tools&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java_tools&#34;&gt;#&lt;/a&gt; Java_Tools&lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;../../../images/Iknowyouwillstop/2.png&#34; alt=&#34;201&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;HelloWorld!  Md5 加密即可.&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;	这次比赛对于我这个刚接触安全的小白收获还是蛮大的，web题目除了那道java反序列化不会，其他在我的软磨硬泡下都弄出来了，还是有点成就感的，最后也是混了个二等奖，嘻嘻~(\*/ω＼\*)。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../../images/NSS/polar.png&#34; alt=&#34;polar&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://p1kap1.github.io/CTF/web/SICTF2023-Round2/</guid>
             <title>SICTF2023-Round2</title>
             <link>https://p1kap1.github.io/CTF/web/SICTF2023-Round2/</link>
-            <category term="我想打CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
+            <category term="CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
             <category term="无敌的Web" scheme="https://p1kap1.github.io/categories/CTF/web/" />
             <category term="php是世界上最好的语言" scheme="https://p1kap1.github.io/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="又坐牢了" scheme="https://p1kap1.github.io/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
@@ -267,22 +271,10 @@ flag 格式：flag&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://p1kap1.github.io/knowledge/%E8%AE%B0%E4%B8%80%E6%AC%A1flask%E7%9A%84%E9%99%A8%E8%90%BD/</guid>
-            <title>flask伪造+pickle模块序列化</title>
-            <link>https://p1kap1.github.io/knowledge/%E8%AE%B0%E4%B8%80%E6%AC%A1flask%E7%9A%84%E9%99%A8%E8%90%BD/</link>
-            <category term="我知道你会为我停留🎶" scheme="https://p1kap1.github.io/categories/knowledge/" />
-            <category term="懂不懂python的含金量啊" scheme="https://p1kap1.github.io/tags/%E6%87%82%E4%B8%8D%E6%87%82python%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%95%8A/" />
-            <category term="无敌的框架" scheme="https://p1kap1.github.io/tags/%E6%97%A0%E6%95%8C%E7%9A%84%E6%A1%86%E6%9E%B6/" />
-            <pubDate>Thu, 07 Sep 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h3 id=&#34;什么是pickle模块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是pickle模块&#34;&gt;#&lt;/a&gt; &lt;strong&gt;什么是 pickle 模块？&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;在英语中 pickle 名词是泡菜，动词是腌制的意思。可以理解成把东西腌起来保存成文件，要用的时候读出来洗洗再用。&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://p1kap1.github.io/knowledge/php%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E7%9A%84%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/</guid>
             <title>php反序列化的奇思妙想no.1</title>
             <link>https://p1kap1.github.io/knowledge/php%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E7%9A%84%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/</link>
-            <category term="我知道你会为我停留🎶" scheme="https://p1kap1.github.io/categories/knowledge/" />
+            <category term="杂谈小记" scheme="https://p1kap1.github.io/categories/knowledge/" />
             <category term="php是世界上最好的语言" scheme="https://p1kap1.github.io/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="反序列化好难呜呜" scheme="https://p1kap1.github.io/tags/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%A5%BD%E9%9A%BE%E5%91%9C%E5%91%9C/" />
             <pubDate>Tue, 05 Sep 2023 00:00:00 +0800</pubDate>
@@ -381,7 +373,7 @@ U - unicode string&lt;/p&gt;
             <guid isPermalink="true">https://p1kap1.github.io/CTF/web/NSSCTF-2nd-web/</guid>
             <title>NSSCTF-2nd-web</title>
             <link>https://p1kap1.github.io/CTF/web/NSSCTF-2nd-web/</link>
-            <category term="我想打CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
+            <category term="CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
             <category term="无敌的Web" scheme="https://p1kap1.github.io/categories/CTF/web/" />
             <category term="php是世界上最好的语言" scheme="https://p1kap1.github.io/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="又坐牢了" scheme="https://p1kap1.github.io/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
@@ -699,11 +691,11 @@ POST:ssti=&amp;#123;% set _tt_utf8 =eval %&amp;#125;&amp;#123;% raw request.body
             <guid isPermalink="true">https://p1kap1.github.io/CTF/web/NSS%E9%A2%98%E8%AE%B0-web%E7%AF%87/</guid>
             <title>NSS题记-web篇</title>
             <link>https://p1kap1.github.io/CTF/web/NSS%E9%A2%98%E8%AE%B0-web%E7%AF%87/</link>
-            <category term="我想打CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
+            <category term="CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
             <category term="无敌的Web" scheme="https://p1kap1.github.io/categories/CTF/web/" />
-            <category term="懂不懂python的含金量啊" scheme="https://p1kap1.github.io/tags/%E6%87%82%E4%B8%8D%E6%87%82python%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%95%8A/" />
             <category term="又坐牢了" scheme="https://p1kap1.github.io/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
             <category term="我就是歪脖" scheme="https://p1kap1.github.io/tags/%E6%88%91%E5%B0%B1%E6%98%AF%E6%AD%AA%E8%84%96/" />
+            <category term="懂不懂python的含金量啊" scheme="https://p1kap1.github.io/tags/%E6%87%82%E4%B8%8D%E6%87%82python%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%95%8A/" />
             <category term="反序列化好难" scheme="https://p1kap1.github.io/tags/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%A5%BD%E9%9A%BE/" />
             <pubDate>Sat, 26 Aug 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;202397&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#202397&#34;&gt;#&lt;/a&gt; 2023/9/7&lt;/h2&gt;
@@ -1827,7 +1819,7 @@ SetHandler application/x-httpd-php
             <guid isPermalink="true">https://p1kap1.github.io/CTF/misc/NepCTF-misc/</guid>
             <title>NepCTF2023复现-Misc</title>
             <link>https://p1kap1.github.io/CTF/misc/NepCTF-misc/</link>
-            <category term="我想打CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
+            <category term="CTF" scheme="https://p1kap1.github.io/categories/CTF/" />
             <category term="高贵的Misc" scheme="https://p1kap1.github.io/categories/CTF/misc/" />
             <category term="php是世界上最好的语言" scheme="https://p1kap1.github.io/tags/php%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80/" />
             <category term="又坐牢了" scheme="https://p1kap1.github.io/tags/%E5%8F%88%E5%9D%90%E7%89%A2%E4%BA%86/" />
